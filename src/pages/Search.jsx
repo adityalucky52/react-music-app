@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 function Search() {
-  return (
-    <div>This is the search page</div>
-  )
+   return <div>This is the search bar</div>;
 }
 
-export default Search
+export default Search;
