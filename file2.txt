@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 hello world
 
 this is the file2 
-=======
 my name is sandip kumar
->>>>>>> name
